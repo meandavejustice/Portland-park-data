@@ -1,0 +1,29 @@
+{
+  "name": "Portland-park-data",
+  "version": "0.0.0",
+  "description": "Park data for Portland, Oregon",
+  "main": "parks.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meandavejustice/Portland-park-data.git"
+  },
+  "keywords": [
+    "open-data",
+    "open",
+    "data",
+    "parks",
+    "portland",
+    "oregon",
+    "pdx",
+    "civic"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/Portland-park-data/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/Portland-park-data"
+}
