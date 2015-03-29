@@ -1,6 +1,6 @@
 {
   "name": "Portland-park-data",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Park data for Portland, Oregon",
   "main": "parks.json",
   "scripts": {
